@@ -22,3 +22,12 @@ windows: same as above
 5. `c` to commit
 
 ## 3. Cherry pick
+
+1. `Tab` to local branches
+2. `Enter` a branch
+3. `Shift-c` to stage a commit for copying
+4. `Esc` `Tab` to commit panel
+5. `Shift-v` to add the copied commits to branch
+
+Can also be done with in reverse.
+
