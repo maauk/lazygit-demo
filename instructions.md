@@ -37,4 +37,5 @@ Can also be done with in reverse.
 
 ## 5. interactive rebase
 
-press `e` on a commit in the commits panel. Do the p,s,f,d etc. stuff to commits above. `m`
+press `e` on a commit in the commits panel. Do the p,s,f,d etc. stuff to commits above. press `m` for rebase options inc. continue rebase
+use `^j` and `^k` to move commits up and down to reorder commits (can also be done outside of active rebase, will quick rebase only reorder)
