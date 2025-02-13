@@ -65,3 +65,6 @@ Stage files or lines, press `s` in files panel and select stash staged.
 
 commits panel, go inspect the commit with `enter` then go select some lines from a file for a patch. Then double back to commits panel, highlight the end target commit and press `^p` and select move patch to commit.
 
+## 11 Delete stuff from commit
+
+similar to moving stuff but instead we select remove patch from original
