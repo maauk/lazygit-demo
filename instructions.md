@@ -39,3 +39,10 @@ Can also be done with in reverse.
 
 press `e` on a commit in the commits panel. Do the p,s,f,d etc. stuff to commits above. press `m` for rebase options inc. continue rebase
 use `^j` and `^k` to move commits up and down to reorder commits (can also be done outside of active rebase, will quick rebase only reorder)
+
+## 6. Amend and fixups
+
+stage something files panel. Press `Shift-A` in commits panel on a commit to append to it. Alternatively, press `f` to create a fixup a commit for the commit.
+Fixup commits can be autosquashed with the commit they are fixing up with `Shift-S`.
+
+Bonus feature. Find the likely commit you want to fixup or ammend with `^f` :)
