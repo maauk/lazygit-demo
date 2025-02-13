@@ -31,3 +31,7 @@ windows: same as above
 
 Can also be done with in reverse.
 
+4. Discard
+
+`d` and `shift-D` in files panel
+
