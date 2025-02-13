@@ -56,3 +56,7 @@ press `o` in branch section.
 ## 8 revert a commit
 
 press `t` in commits panel
+
+## 9 partial stash
+
+Stage files or lines, press `s` in files panel and select stash staged.
