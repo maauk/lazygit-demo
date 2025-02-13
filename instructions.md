@@ -30,3 +30,9 @@ windows: same as above
 5. `Shift-v` to add the copied commits to branch
 
 Can also be done with in reverse.
+
+4. Discard
+
+`d` and `shift-D` in files panel
+
+5.
