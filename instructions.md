@@ -6,6 +6,8 @@ mac user: `brew install lazygit`
 linux users: see repo README.md for distro specific instructions
 windows: same as above
 
+Attribution: demo basically copied from lazygit devs youtube video: <https://www.youtube.com/watch?v=CPLdltN7wgE>
+
 ## 1. Stage files
 
 1. Files tab
