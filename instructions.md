@@ -60,3 +60,8 @@ press `t` in commits panel
 ## 9 partial stash
 
 Stage files or lines, press `s` in files panel and select stash staged.
+
+## 10 Move patches between commits
+
+commits panel, go inspect the commit with `enter` then go select some lines from a file for a patch. Then double back to commits panel, highlight the end target commit and press `^p` and select move patch to commit.
+
