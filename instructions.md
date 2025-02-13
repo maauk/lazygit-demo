@@ -36,3 +36,5 @@ Can also be done with in reverse.
 `d` and `shift-D` in files panel
 
 5.
+
+press `e` on a commit in the commits panel. Do the p,s,f,d etc. stuff to commits above. `m`
