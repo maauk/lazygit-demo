@@ -52,3 +52,7 @@ Bonus feature. Find the likely commit you want to fixup or ammend with `^f` :)
 ## 7. Open a PR
 
 press `o` in branch section.
+
+## 8 revert a commit
+
+press `t` in commits panel
