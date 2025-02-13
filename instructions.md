@@ -48,3 +48,7 @@ stage something files panel. Press `Shift-A` in commits panel on a commit to app
 Fixup commits can be autosquashed with the commit they are fixing up with `Shift-S`.
 
 Bonus feature. Find the likely commit you want to fixup or ammend with `^f` :)
+
+## 7. Open a PR
+
+press `o` in branch section.
